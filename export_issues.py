@@ -3,8 +3,8 @@ import markdown
 import os
 
 # Set your GitHub repository details
-GITHUB_REPO = "qiwihui/blog"
-GITHUB_TOKEN = ""  # Replace with your GitHub personal access token
+GITHUB_REPO = "briteming/qb"
+GITHUB_TOKEN = "ghp_24XMnFvZl9uyf"+"EmbPwpZXN4unqN5tL0mGNcr"  # Replace with your GitHub personal access token
 
 # Set up API URL
 base_url = f"https://api.github.com/repos/{GITHUB_REPO}/issues"
